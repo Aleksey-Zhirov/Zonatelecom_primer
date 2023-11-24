@@ -1,0 +1,18 @@
+Start test
+current url https://www.zonatelecom.ru/
+Click payment
+Click replenishment
+Input account_number
+Click thousand
+Input mobile_phone
+Click choose_zonatelecom
+current url https://www.zonatelecom.ru/services/calls/fillcard
+Click services
+Click audio_conversations
+Click buy_a_card
+Input first_name
+Input last_name
+Input email
+Input mobile_phone
+Input summa
+Finish test
